@@ -1,6 +1,7 @@
 body{
-    background-color: #1A181B;
-    color: white;
+    background-color: #91ff95;
+    color: black;
+    font-family:  Verdana, sans-serif;
 }
 div{
     display: flex;
